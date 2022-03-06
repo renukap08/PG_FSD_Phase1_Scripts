@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;random&apos; to &apos;test&apos;&#x0A;- Original project: &apos;random&apos;&#x0A;- Original element: &apos;random/src/random&apos;&#x0A;- Renamed element: &apos;random/src/test&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;random&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;random" name="test" qualified="false" references="true" stamp="1646498271775" textual="false" version="1.0"/>
+</session>

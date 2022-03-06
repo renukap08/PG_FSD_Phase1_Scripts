@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Crushed_Rock&apos; to &apos;CrushedRock&apos;&#x0A;- Original project: &apos;Interfaces_Lambda&apos;&#x0A;- Original element: &apos;Crushed_Rock&apos;&#x0A;- Renamed element: &apos;CrushedRock&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Crushed_Rock&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Crushed_Rock.java[Crushed_Rock" matchStrategy="1" name="CrushedRock" qualified="false" references="true" similarDeclarations="false" stamp="1645289249365" textual="false" version="1.0"/>
+</session>
